@@ -1,0 +1,67 @@
+
+# ⚡ FocusFlow – Productivity Dashboard
+
+A modern, dark-themed productivity dashboard designed to help users manage daily tasks, track progress, and improve focus using a Pomodoro timer.
+
+## 🚀 Features
+
+- **Task Management:** Add, complete, and delete daily tasks.
+- **Progress Tracking:** Automatically calculates completed tasks and productivity percentage.
+- **Pomodoro Timer:** Built-in 25-minute focus timer.
+- **Data Persistence:** Tasks are saved automatically using Local Storage.
+- **Responsive Design:** Works on desktop and mobile devices.
+- **Dark UI:** Clean and modern user interface.
+
+## 🛠️ Technologies Used
+
+- HTML5 – Structure
+- CSS3 – Styling and responsive design
+- JavaScript – Functionality and interactivity
+- Local Storage – Saving user tasks
+
+## 📸 Project Preview
+
+Open `index.html` in your browser to explore the dashboard.
+
+## 📂 Project Structure
+
+```text
+FocusFlow/
+│
+└── index.html
+```
+
+## ⚙️ How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/FocusFlow-Productivity-Dashboard.git
+   ```
+
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Start managing your tasks!
+
+## 🎯 Project Objective
+
+The main objective of FocusFlow is to create a simple and efficient productivity tool that helps users organize their daily activities, monitor task completion, and maintain focus through time management.
+
+## 🔮 Future Improvements
+
+- User authentication
+- Daily and weekly productivity analytics
+- Customizable focus sessions
+- Task deadlines and reminders
+- Sound notifications
+- Cloud-based data storage
+
+## 👨‍💻 Developer
+
+**Kanishka AS**
+
+Engineering Student | Aspiring Software Developer
+
+---
+
+⭐ If you like this project, consider giving it a star!
